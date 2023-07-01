@@ -1,4 +1,4 @@
-/*  Toms Madžuls, tm22005
+/*  
     H13. Doti divi bināri faili f1 un f2, kuru komponentes ir ieraksti ar struktūru: atslēga (int),
     vārds (nepārsniedz 30 simbolus). Failu komponentes sakārtotas atslēgu pieaugšanas secībā.
     Uzrakstīt programmu, kas apvieno failus f1 un f2 failā f3 tā, lai arī f3 komponentes būtu atslēgu
