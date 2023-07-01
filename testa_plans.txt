@@ -1,0 +1,32 @@
+Ievads                  Programmas vēlamā reakcija      C++
+-------------------------------------------------------------
+f1:         f2:             f3:                           +
+1 rimi      3 suns          1 rimi
+2 maxima    5 kakis         2 maxima
+4 mego      7 zirgs         3 suns
+6 lidl      8 pele          4 mego
+                            5 kakis 
+                            6 lidl
+                            7 zirgs
+                            8 pele
+-------------------------------------------------------------
+f1:         f2:             f3:                           +
+2 rimi      1 suns          1 suns
+3 maxima    4 kakis         2 rimi
+9 mego      5 zirgs         3 maxima
+20 lidl                     4 kakis
+22 lats                     5 zirgs 
+                            9 mego
+                            20 lidl
+                            22 lats
+-------------------------------------------------------------
+f1:         f2:             f3:                           +
+1 audi                      1 audi
+2 bmw                       2 bmw
+5 mercedes                  5 mercedes
+9 volvo                     9 volvo
+-------------------------------------------------------------
+f1:         f2:             "f3 ir tukss!"                +
+-------------------------------------------------------------
+f1:         f2:             "Error: Key already used"     +
+4 anna      4 diana       
